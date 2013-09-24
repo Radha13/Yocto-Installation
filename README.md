@@ -31,7 +31,7 @@ Embedded Media and Graphics Driver (EMGD) 1.8 Driver.
 2. Downloads
 	
 	git://git.yoctoproject.org/meta-intel	
-	wget http://downloads.yoctoproject.org/releases/yocto/yocto-1.1/poky-danny-8.0.tar.bz2
+	axel -n 4 http://downloads.yoctoproject.org/releases/yocto/yocto-1.1/poky-danny-8.0.tar.bz2 
 	
 	The following packages are needed to be installed :  
 

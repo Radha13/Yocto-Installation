@@ -2,7 +2,7 @@ Yocto-Installation
 ==================
 
 
-####################################################### Yocto ######################################################### 
+######################## Yocto ###################### 
 
 Welcome!
 This documentation deals with building the yocto system on ubuntu 12.04.
